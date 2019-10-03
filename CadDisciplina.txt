@@ -1,7 +1,5 @@
 							Cadastro de disciplina
 
-CÃ³digo:
+Código:
 
 Disciplina:
-
-Curso:

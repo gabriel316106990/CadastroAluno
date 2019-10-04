@@ -8,3 +8,5 @@ Nome:
 Telefone:
 
 E-mail:
+ 
+ Rg:

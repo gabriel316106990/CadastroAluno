@@ -1,7 +1,9 @@
 							Cadastro de professor
 
-Matrícula:
+MatrÃ­cula:
 
 Nome:
 
 e-mail:
+
+materia que lesiona 
